@@ -11,6 +11,8 @@
   "author": "Royer",
   "license": "ISC",
   "dependencies": {
+    "@socket.io/admin-ui": "^0.5.1",
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "moment": "^2.29.4",
     "socket.io": "^4.6.1"
